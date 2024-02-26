@@ -1,9 +1,0 @@
-Create a Car class with the following attributes and methods:
-Attributes: make, model, year, color, mileage.
-Methods:
-init(self, make, model, year, color): 
-Constructor method to initialize the attributes.
-start(self): Method that simulates starting the car.
-stop(self): Method that simulates stopping the car.
-drive(self, miles): Method that simulates driving the car for a certain number of miles.
-Create an instance of the Car class and demonstrate its functionality by starting the car, driving it, stopping it, and displaying the car's information.
