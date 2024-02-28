@@ -1,0 +1,17 @@
+'''
+1 .Take a inputs and Evaluate the expressions
+a)Take the Students name
+b)Take the student English marks
+maths, science, social, tamil, hindi while taking the inputs it should be in the range (0-100)
+c)calculate the % and print
+% <35% print fail and print the Grade 'F'
+% >=35% and <55% print just pass and print the Grade 'D'
+% >=55% and <60% print  pass and print the Grade 'C'
+% >=60% and <75% print  average and print the Grade 'B'
+% >=75% and <90% print  good and print the Grade 'A'
+% >=90% and <100% print  excellent  and print the Grade 'A+'
+
+'''
+# 1)write a 4 functionsa)to find the area of circleb) to find the area of rectanglec)to find the area of squared)find the area of triangletake the inputs from the user for all 4 operation
+
+1. Write a python program to take the inputs of two employees    EmployeeName    EmployeeSalary    and return its salary & employeename.   Add bonus of 10% of its salary and credit to his account.    Add emp1 and emp2 salaries with bonus and store it into salarydetails list
