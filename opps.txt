@@ -1,0 +1,19 @@
+OOP- Object Oriented Programming
+
+Class Human : adam
+    datamembers: varaibles humanname,age,gender,height
+    methods:functions
+    sleep()
+    eat()
+    walks()
+
+prototype
+
+
+p1
+p2
+p3
+-
+-
+-
+-pn

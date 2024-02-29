@@ -1,0 +1,5 @@
+# Laptop Manufacture Factory
+# Create a class Laptop Add constructor with the attributes DeviceName, Processor, InstalledRam, DeviceID, ProductId, SystemType, ManufuctureDate.
+# Create a method to print the laptop details.
+
+Manufacture 5 laptops objects by taking inputs from the user and pass the values to the class blueprint.
