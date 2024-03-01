@@ -83,3 +83,24 @@
 # height=int(input("Enter height of triangle\t"))
 # area=areaOfTriangle(base,height)
 # print(f'Area of triangle is {area}')
+
+class Laptop:
+    def __init__(self,deviceName,processor,installedRam,deviceID,productId,systemType,manufuctureDate) :
+        self.deviceName=deviceName
+        self.processor=processor
+        self.installedRam=installedRam
+        self.deviceID=deviceID
+        self.productId=productId
+        self.systemType=systemType
+        self.manufuctureDate=manufuctureDate
+
+    def printDetails(self):
+        print(f'\nDeviceName={self.deviceName}\n Processor={self.processor}\n InstalledRam={self.installedRam}\nDeviceID={self.deviceID}\n ProductId={self.productId}\n SystemType={self.systemType}\nManufuctureDate={self.manufuctureDate}\n--------------------\n')    
+
+
+l1=Laptop(" Dell XPS 15","Intel Core i7-10750H"," 16GB DDR4"," XYZ123","DELLXPS15-2024","Windows 10 Pro 64-bit"," 2023-06-15")
+l2=Laptop("MacBook Pro 13","Apple M1 Pro","16GB unified memory","JKL345","MACBOOKPRO13-2024","macOS Monterey","2023-10-05")
+l3=Laptop("HP","Intel","64GB","klj12","hp-2021","window","2021-03-12")
+l1.printDetails()
+l2.printDetails()
+l3.printDetails()

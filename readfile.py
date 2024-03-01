@@ -1,0 +1,13 @@
+# f=open("guvi.txt")
+# print(f.read())
+# f.close()
+
+f=open("guvi.txt",'r')
+# data=f.readlines()
+# print(data)
+# print(f.readline())
+# print(f.readline())
+# print(f.readline())
+# print(f.readline())
+data=f.readlines()
+print(data[2])

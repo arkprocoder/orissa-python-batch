@@ -1,0 +1,8 @@
+# f=open("employee.txt","w")
+# # f.write("i work at infosys\n")
+# # f.write("i am from bangalore\n")
+# # f.close()
+# f=open("employee.txt","a")
+# f.write("i work at Tcs\n")
+# f.write("i am from chennai\n")
+# f.close()

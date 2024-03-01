@@ -1,0 +1,5 @@
+filter,
+reduce,
+map,
+
+__name___ == '__main___
